@@ -19,6 +19,6 @@ export default  function BlankPage()
         getVenues();
     },[])
     return(
-        <div>This page is for testing</div>
+        <div>This page is for testing.  Axios should be working</div>
     )
 }
