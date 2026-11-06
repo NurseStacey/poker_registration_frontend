@@ -1,7 +1,7 @@
 .my_button{
     cursor: pointer;
     border:1px solid black;
-    width:8vw;
+    width:15vw;
     margin:0.5vh 1vw;
     background-color: antiquewhite;
 }
