@@ -14,7 +14,7 @@ export default  function BlankPage()
                 console.log(err)
             }  
         }       
-        getVenues()/
+        getVenues();
     },[])
     return(
         <div>This page is blank</div>
