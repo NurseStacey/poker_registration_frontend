@@ -1,4 +1,6 @@
 import {useEffect} from 'react'
+import AxiosInstance from '../../utils/axios.jsx';
+
 
 export default  function BlankPage()
 {
