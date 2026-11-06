@@ -1,0 +1,13 @@
+.one-player-row{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.one-player-name{
+    width:5vw;
+}
+
+.one-player-position{
+    width:2vw;
+}
