@@ -17,6 +17,6 @@ export default  function BlankPage()
         getVenues();
     },[])
     return(
-        <div>This page is blank</div>
+        <div>This page is for testing</div>
     )
 }
