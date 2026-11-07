@@ -172,7 +172,7 @@ export default function DirectorPage()
     return(
         <div>
             <div>Director Page</div>
-            <button onClick={test}>test</button>
+            {/* <button onClick={test}>test</button> */}
             <div>
                 <div> Create New Game</div>
                 <MyRadio
