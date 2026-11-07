@@ -51,7 +51,9 @@ export default function GameRegistration()
                 player:playerName,
             }
             const response = await AxiosInstance.post(`registration/sign-up/`,formData);
-            alert('You have been registered.')
+            alert('You have been registered.');
+            setPlayerName('');
+            setWhichGame({id:-1});
 
         }catch(err){
             console.log(err)
